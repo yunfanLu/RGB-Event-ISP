@@ -1,0 +1,6 @@
+*.jpg
+*.err
+*.out
+dataset/Event-Video-Color-Dataset
+
+testdata-rawdata/
