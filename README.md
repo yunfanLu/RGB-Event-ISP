@@ -1,7 +1,10 @@
 # RGB-Event ISP: MATLAB Implementation
 
 ## Overview of ISP
-This repository contains the MATLAB implementation of the **RGB-Event ISP** pipeline, which processes RAW images into color-corrected RGB images. The codebase is developed as part of the **RGB-Event ISP Dataset and Benchmark**, which introduces the first event-RAW paired dataset for event-based image signal processing (ISP). The dataset and associated methods were presented in our ICLR 2025 paper.
+This repository contains the **MATLAB** implementation of the **RGB-Event ISP** pipeline, which processes RAW images into color-corrected RGB images. The codebase is developed as part of the **RGB-Event ISP Dataset and Benchmark**, which introduces the first event-RAW paired dataset for event-based image signal processing (ISP). The dataset and associated methods were presented in our ICLR 2025 paper.
+
+### PyTorch Implementation
+For the ‌Benchmark‌ implementation in ‌**PyTorch‌**, please refer to the dedicated repository [github.com/yunfanLu/RGB-Event-ISP-Benchmark](https://github.com/yunfanLu/RGB-Event-ISP-Benchmark).
 
 ## Features
 - **RAW Image Processing**: Converts APS RAW images into RGB images using a predefined ISP pipeline.
