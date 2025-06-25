@@ -76,7 +76,9 @@ If you use this code or dataset in your research, please cite our ICLR 2025 pape
 ### License
 This project is released under the Academic Research License. It is strictly for non-commercial, research purposes only. Any commercial usage, redistribution, or modification for profit-oriented activities is strictly prohibited.
 
-We welcome researchers and students in the event-version community to use our dataset. Please send me an email using the school email and state the purpose of non-commercial use. I will reply to you within 24 hours!
+We welcome researchers and students in the event-version community to use our dataset. Please send me an email using the school email and state the purpose of **non-commercial use**. I will reply to you within 24 hours!
+
+We have distributed our dataset to over 20 universities and research institutes worldwide, all of which have signed non-commercial usage agreements. These institutions include Seoul National University, KAIST, Southeast University, Beijing Normal University, Institute of Automation (Chinese Academy of Sciences), UC San Diego, Yonsei University, Hunan University, National University of Defense Technology, University of Tokyo, Tianjin University, ETH Zurich, and the University of Zurich, among others.
 
 ### Contact
 For any questions or inquiries, please contact **Yunfan Lu** at [ylu066@connect.hkust-gz.edu.cn](mailto:ylu066@connect.hkust-gz.edu.cn).
