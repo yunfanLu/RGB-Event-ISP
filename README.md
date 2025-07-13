@@ -3,6 +3,13 @@
 ## Overview of ISP
 This repository contains the **MATLAB** implementation of the **RGB-Event ISP** pipeline, which processes RAW images into color-corrected RGB images. The codebase is developed as part of the **RGB-Event ISP Dataset and Benchmark**, which introduces the first event-RAW paired dataset for event-based image signal processing (ISP). The dataset and associated methods were presented in our ICLR 2025 paper.
 
+The RGB-Event ISP Benchmark dataset can be accessed via the following link:
+```
+🔗 Download: [Baidu Drive - RGB-Event Dataset](https://pan.baidu.com/s/1EccrDexXaZW0P7q5GmHljw)
+🔑 Access Code: iclr
+```
+Please note that use of this dataset is strictly limited to non-commercial academic research. By downloading or using the dataset, you agree to comply with the terms specified in the [LICENSE file](https://github.com/yunfanLu/RGB-Event-ISP/blob/main/LICENSE.pdf).
+
 ### PyTorch Implementation
 For the ‌Benchmark‌ implementation in ‌**PyTorch‌**, please refer to the dedicated repository [github.com/yunfanLu/RGB-Event-ISP-Benchmark](https://github.com/yunfanLu/RGB-Event-ISP-Benchmark).
 
