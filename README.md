@@ -5,7 +5,7 @@ This repository contains the **MATLAB** implementation of the **RGB-Event ISP** 
 
 The RGB-Event ISP Benchmark dataset can be accessed via the following link:
 ```
-🔗 Download (Baidu Drive - RGB-Event Dataset): https://pan.baidu.com/s/1EccrDexXaZW0P7q5GmHljw)
+🔗 Download (Baidu Drive - RGB-Event Dataset): https://pan.baidu.com/s/1EccrDexXaZW0P7q5GmHljw
 🔑 Access Code: iclr
 ```
 Please note that use of this dataset is strictly limited to non-commercial academic research. By downloading or using the dataset, you agree to comply with the terms specified in the [LICENSE file](https://github.com/yunfanLu/RGB-Event-ISP/blob/main/LICENSE.pdf).
